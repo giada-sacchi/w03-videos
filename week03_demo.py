@@ -31,4 +31,4 @@ for i in items:
         bins.append(i)
 
 print(bins)
-print(sum(bins) == sum(items))
+print(sum(bins) == sum(items))s
